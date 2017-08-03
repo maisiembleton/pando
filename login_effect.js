@@ -22,7 +22,7 @@ function chUserAndPssword() {
 
     if (dUsername == "" || dPassword == "") {
 
-        alert("Please In put data")
+        alert("Please fill out all fields")
         showpopup()
 
     } else {
